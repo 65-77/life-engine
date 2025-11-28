@@ -1,0 +1,3 @@
+/home/paw2u/projects/own/C/life-engine/build/CMakeFiles/life-engine.dir
+/home/paw2u/projects/own/C/life-engine/build/CMakeFiles/edit_cache.dir
+/home/paw2u/projects/own/C/life-engine/build/CMakeFiles/rebuild_cache.dir

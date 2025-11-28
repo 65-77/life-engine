@@ -1,0 +1,9 @@
+# ninja log v7
+1	78	1764328844410051432	CMakeFiles/OpenGLProject.dir/dep/glad/src/glad.c.o	ee47ff3b74d64b75
+0	143	1764328844409051399	CMakeFiles/OpenGLProject.dir/src/main.cpp.o	877cd09a3dce6c96
+143	182	1764328844552056117	OpenGLProject	444ca94c114dedf9
+0	77	1764328924389213732	CMakeFiles/life-engine.dir/dep/glad/src/glad.c.o	36a5401824cdbad8
+0	145	1764328924387690014	CMakeFiles/life-engine.dir/src/main.cpp.o	8e7cb9a3b9435b23
+145	187	1764328924532694798	life-engine	d52f94c6f1c1d02e
+0	149	1764329156456346117	CMakeFiles/life-engine.dir/src/main.cpp.o	8e7cb9a3b9435b23
+149	195	1764329156605351033	life-engine	d52f94c6f1c1d02e
